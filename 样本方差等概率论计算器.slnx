@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="样本方差等概率论计算器.vcxproj" Id="3f91bdc5-96bd-4a3c-ab3c-63958f1a7102" />
+</Solution>

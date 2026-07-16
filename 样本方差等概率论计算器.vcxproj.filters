@@ -25,9 +25,4 @@
       <Filter>Test</Filter>
     </ClCompile>
   </ItemGroup>
-  <ItemGroup>
-    <CustomBuild Include="x64\Release\文件读取.py">
-      <Filter>Test</Filter>
-    </CustomBuild>
-  </ItemGroup>
 </Project>

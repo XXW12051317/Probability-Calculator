@@ -146,11 +146,6 @@
       <FileType>Text</FileType>
     </ClCompile>
   </ItemGroup>
-  <ItemGroup>
-    <CustomBuild Include="x64\Release\文件读取.py">
-      <FileType>Document</FileType>
-    </CustomBuild>
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
